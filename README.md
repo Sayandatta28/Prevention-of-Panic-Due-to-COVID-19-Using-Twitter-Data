@@ -31,14 +31,14 @@ The system collects tweets related to hashtags such as **#afraid**, **#anxiety**
 ---
 
 ## 📂 Project Structure
-
+```text
 Prevention-of-Panic-Due-to-COVID-19-Using-Twitter-Data/
 │
 ├── Covid-19 Twitter Sentiment Analysis.ipynb
 ├── Covid_19_Tweets_Dataset.xlsx
 ├── Pickle_RL_Model.pkl
 ├── README.md
-
+```
 
 ---
 
